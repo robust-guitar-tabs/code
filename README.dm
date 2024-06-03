@@ -1,7 +1,3 @@
-Certainly! Here's the refined text for a GitHub repository description in DM format, using code blocks where appropriate:
-
----
-
 Leveraging Electric Guitar Tones and Effects to Improve Robustness in Guitar Tablature Transcription Modeling
 
 This repository is structured into three main folders:
@@ -61,5 +57,3 @@ EGFXSET contains some errors. Edit the `egfxset_index_1.json` file and some file
 ### Issues
 
 If issues arise, feel free to reach out to the first author.
-
----
