@@ -17,7 +17,7 @@ pip install -e amt-tools
 
 This repository includes 16 Guitar Pro examples. For a full dataset, request access from DadaGP: [DadaGP](https://github.com/dada-bots/dadaGP).
 
-###Models Training and Testing
+### Models Training and Testing
 
 The python files needed for training are in `AMT-Tools/amt-tools/amt_tools/examples/papers/` folder.
 
