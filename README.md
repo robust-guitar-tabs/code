@@ -4,7 +4,7 @@ This repository is structured into three main folders:
 
 - **AMT-Tools**: A customized version of the Cwitkowitz AMT-Tools code ([Cwitkowitz AMT-Tools](https://github.com/cwitkowitz/amt-tools/)), including our dataset loader, for training models and saving datasets.
 - **Guitar Pro Conversor**: Code to convert any pre-GP5 guitar pro files to a valid format.
-- **Performance Generator**: Code to create token, MIDI, and HAM files from Guitar Pro tabs and audio from the generated JAMS files.
+- **Performance Generator**: Code to create token, MIDI, and jams files from Guitar Pro tabs and audio from the generated JAMS files.
 
 ### Getting Started
 
